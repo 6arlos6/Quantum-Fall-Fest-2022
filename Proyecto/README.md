@@ -1,10 +1,10 @@
-# Nombre del proyecto
+# Solucion del problema de las N reinas para N=4 utilizando el algoritmo de Grover
 
 ## Miembros 
 
-Persona 1, Persona 2, Persona 3, Persona 4, Persona 5. 
+Carlos Alberto Riascos Moreno
 
 ## Descripción
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Este proyecto busca encontrar una solucion al problema de las N reinas, para le caso particular de N=4 utilizando el algoritmo de grover, usando el simulador Qiskit de algoritmo cuanticos.
 
